@@ -1,4 +1,4 @@
-package MerkleTree;
+package com.vivek.merkletree;
 
 import java.security.MessageDigest;
 

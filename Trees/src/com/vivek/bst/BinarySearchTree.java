@@ -1,10 +1,10 @@
-package BST;
+package com.vivek.bst;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-import Nodes.TreeNode;
+import com.vivek.nodes.TreeNode;
 
 public class BinarySearchTree<T extends Comparable<T>> {
 

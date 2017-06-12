@@ -1,4 +1,4 @@
-package Nodes;
+package com.vivek.nodes;
 
 public class Node<T> {
 

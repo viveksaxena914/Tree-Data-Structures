@@ -1,6 +1,6 @@
-package BST;
+package com.vivek.bst;
 
-import Nodes.TreeNode;
+import com.vivek.nodes.TreeNode;
 
 public class KthNodeBST {
 

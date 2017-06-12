@@ -1,8 +1,8 @@
-package BST;
+package com.vivek.bst;
 
 import java.util.Arrays;
 
-import BST.BinarySearchTree.Traversal;
+import com.vivek.bst.BinarySearchTree.Traversal;
 
 public class Client {
 
